@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Atkinson Hyperlegible';
+    src: url(/fonts/AtkinsonHyperlegible-Regular.ttf) format('truetype');
+}
+html {
+    font-family: Atkinson Hyperlegible;
+    color: #dcf8f4;
+    background-color:#202e2c;
+}
